@@ -1,4 +1,3 @@
-# terraform-azure-module-template
 <!-- BEGIN_TF_DOCS -->
 ## Providers
 
